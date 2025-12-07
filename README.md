@@ -181,5 +181,3 @@ Pipeline **çalışıyor ve test edilebilir** durumda.
 2. `pinecone_query.png` → Pinecone sorgu çıktısı
 3. `flan_t5_answer.png` → LLM yanıt ekran görüntüsü
 
-> Görselleri `images/` klasörüne koyabilir ve README’de şu şekilde gösterebilirsin:
-> `![Pipeline Akışı](images/pipeline.png)`
