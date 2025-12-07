@@ -1,0 +1,11 @@
+.env
+my_steps_env
+__pycache__/
+*.pyc
+.DS_Store       
+.vscode/
+.idea/
+.envrc
+.venv/
+venv/
+env/
