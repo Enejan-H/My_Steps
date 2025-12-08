@@ -1,0 +1,13 @@
+# Ignore Python bytecode files
+__init__.py
+data_loader.py
+model.py
+trainer.py
+config.yaml
+logs/
+checkpoints/
+results/
+*.pyc
+__pycache__/
+*.pyo
+*env*/
