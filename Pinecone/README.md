@@ -180,4 +180,3 @@ Pipeline **çalışıyor ve test edilebilir** durumda.
 1. `pipeline.png` → RAG pipeline akış diyagramı
 2. `pinecone_query.png` → Pinecone sorgu çıktısı
 3. `flan_t5_answer.png` → LLM yanıt ekran görüntüsü
-
